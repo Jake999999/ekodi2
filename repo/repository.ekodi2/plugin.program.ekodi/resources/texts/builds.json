@@ -1,0 +1,24 @@
+{
+	"builds": [
+		{
+			"name": "ekodi",
+			"version": "1.0",
+			"kodi": "K21",
+			"url": "https://www.dropbox.com/scl/fi/hz7e1lj17jrlzagctdlp0/ekodi.zip?rlkey=d34ys2j77q33z0zqy0ag164br&st=j9750vlv&dl=1",
+			"icon": "http://ekodi.rf.gd/icon.png",
+			"fanart": "http://ekodi.rf.gd/fanart.jpg",
+			"description": "The first build. You need a comma after the curly bracket if this is not the last build.",
+			"preview": "http://"
+		}
+		{
+			"name": "Build 2",
+			"version": "1.0",
+			"kodi": "K21",
+			"url": "http://",
+			"icon": "http://",
+			"fanart": "http://",
+			"description": "The second build. No comma after the curly bracket if this is the last build.",
+			"preview": "http://"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+<builds>
+
+  <build>
+	<name>ekodi</name>
+	<version>1.0</version>
+	<kodi>K21</kodi>
+	<url>https://www.dropbox.com/scl/fi/hz7e1lj17jrlzagctdlp0/ekodi.zip?rlkey=d34ys2j77q33z0zqy0ag164br&st=j9750vlv&dl=1</url>
+	<icon>http://ekodi.rf.gd/icon.png</icon>
+	<fanart>http://ekodi.rf.gd/fanart.jpg</fanart>
+	<description>Brief description of the build.</description>
+	<preview>http://</preview>
+  </build>
+  
+  <build>
+	<name>Build 2</name>
+	<version>1.0</version>
+	<kodi>K21</kodi>
+	<url>http://</url>
+	<icon>http://</icon>
+	<fanart>http://</fanart>
+	<description>Brief description of the build.</description>
+	<preview>http://</preview>
+  </build>
+  
+</builds>
